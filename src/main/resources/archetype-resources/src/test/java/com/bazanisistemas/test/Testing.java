@@ -7,7 +7,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class EntidadeTest {
+public class Testing {
 	@BeforeSuite
 	public void init() throws NamingException {
 		//starts openEJB container for tests
